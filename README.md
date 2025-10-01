@@ -1,4 +1,6 @@
-## Hi there 👋
+## ✨ _unique and special_ ✨
+
+![Yep](imgs/R1-01957-003A.JPG)
 
 <!--
 **hellhoundisalab/hellhoundisalab** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
